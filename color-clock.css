@@ -1,0 +1,15 @@
+/* CSS reset belinkelve a html head elemébe */
+
+
+html, body {
+  height: 100%;
+}
+
+#clock {
+  text-align: center;
+  position: relative;
+  top: 50%;
+  font-family: Changa, sans-serif;
+  font-size: 8rem;
+  margin-top: -4rem;
+}
